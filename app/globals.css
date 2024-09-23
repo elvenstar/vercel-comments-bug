@@ -5,6 +5,9 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  
+  --color: hsla(350, 80%, 72%, 0.2);
+  --debug-text-color: hsla(350, 80%, 72%, 0.2);
 }
 
 @media (prefers-color-scheme: dark) {
